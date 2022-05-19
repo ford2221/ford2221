@@ -70,10 +70,6 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
 <table>
   <tr>
     <td align="center" width="96">
-      <img alt="Http Apache" width="48" height="48" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"/>
-      <br>Http Apache
-    </td>
-    <td align="center" width="96">
       <img alt="linux" width="48" height="48" src="./icons/linux/linux.svg"/>
       <br>Linux
     </td>
@@ -87,9 +83,9 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
       <img alt="Bash" width="48" height="48" src="./icons/bash/bash.svg"/>
       <br>Bash
     </td>
- 
   </tr>
 </table>
+
 * Enviroments work:
 
 <table>
