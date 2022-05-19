@@ -36,6 +36,7 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
   </tr>
 </table>
 
+* Back-end
 <table>
   <tr>
     <td align="center" width="96">
