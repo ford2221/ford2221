@@ -5,7 +5,7 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
 - 📫 How to reach me (fordstelle@gmail.com)
 
 ### Contributions 
--[Proyecto-3-v2](https://github.com/gabrielj2814/proyecto-3-v2)
+-[Proyecto-3-v2](https://github.com/ford2221/proyecto-3-v2) </br>
 -[BienesNacionales](https://github.com/ford2221/BienesNacionales)
 
 ## 🏆 Github Profile 
