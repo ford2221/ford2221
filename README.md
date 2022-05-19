@@ -108,12 +108,10 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
       <img alt="npm" width="48" height="48" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
       <br>npm
     </td>
-    
     <td align="center" width="96">
       <img alt="Visual Studio Code" width="48" height="48" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
       <br>Vs Code
     </td>
-    
   </tr>
 </table>
 
