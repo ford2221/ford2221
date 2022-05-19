@@ -24,14 +24,27 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img alt="JavaScript" width="48" height="48" src="./icons/javascript/javascript.svg">
+      <img alt="JavaScript" width="48" height="48" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
       <br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img alt="Vue.js" height="42px" src="./icons/vue/vue.svg"/>
+      <img alt="Vue.js" height="42px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"/>
       <br>Vue.js
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img alt="Nodejs" width="48" height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+      <br>NODEJS
+    </td>
+    <td align="center" width="96">
+      <img alt="Python" width="48" height="48" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+      <br>PTYHON
     </td>
   </tr>
 </table>
@@ -41,7 +54,7 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
 <table>
   <tr>
     <td align="center" width="96">
-      <img alt="PostgreSQL" width="48" height="48" src="./icons/postgresql/postgresql.svg"/>
+      <img alt="PostgreSQL" width="48" height="48" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
@@ -70,17 +83,13 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
 <table>
   <tr>
     <td align="center" width="96">
-      <img alt="linux" width="48" height="48" src="./icons/linux/linux.svg"/>
+      <img alt="linux" width="48" height="48" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-ar21.svg"/>
       <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img alt="GitHub Actions" width="48" height="48" src="./icons/github/github-actions.svg"/>
-      <br>GitHub Actions
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img alt="Bash" width="48" height="48" src="./icons/bash/bash.svg"/>
+      <img alt="Bash" width="48" height="48" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"/>
       <br>Bash
     </td>
   </tr>
@@ -91,7 +100,7 @@ I have knowledge en python(flask) , javascript(vuejs), git, css(tailwind), html.
 <table>
   <tr>
     <td align="center" width="96">
-      <img alt="Git" width="48" height="48" src="./icons/git-scm/git-scm.svg"/>
+      <img alt="Git" width="48" height="48" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/>
       <br>Git
     </td>
     <td align="center" width="96">
